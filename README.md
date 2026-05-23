@@ -5,7 +5,7 @@
 
 ## 🔗 Live Demo
 Test the prediction model here:  
-** **
+** https://linearregression-hu8rivekvjzzxy7ztdcgny.streamlit.app/ **
 
 ---
 
